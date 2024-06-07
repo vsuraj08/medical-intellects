@@ -1,2 +1,7 @@
 firebase-adminsdk.json
 .env
+.venv
+venv
+venv/
+./firebase-adminsdk.json
+.firebase-adminsdk.json
