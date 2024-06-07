@@ -1,0 +1,5 @@
+streamlit
+firebase-admin
+Pillow
+google-generativeai
+python-dotenv
